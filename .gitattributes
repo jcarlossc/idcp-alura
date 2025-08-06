@@ -1,0 +1,2 @@
+# Força o GitHub a tratar arquivos Jupyter como Python
+*.ipynb linguist-language=Python
